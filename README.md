@@ -1,4 +1,17 @@
-[![MasterHead](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif)](https://codegrills.in)
+[![Tester Banner](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif)](https://codegrills.in)
+
+### 🧪 Quality Assurance Specialist 🕵️‍♂️
+
+🚀 Exploring the world of software testing and quality assurance.
+
+📌 Check out my latest testing projects and contributions below 👇
+
+🌐 Connect with me on [LinkedIn](https://linkedin.com/in/gillorkar)
+
+📧 You can reach me at yashgillorkar02@gmail.com
+
+🌟 Let's ensure top-notch software quality together! 🌈
+
 
 <h1 align="center">Hi 👋, I'm Yash Gillorkar</h1>
 <h3 align="center">A devoted software scrutinizer crafting quality in the colorful tapestry of India</h3>
