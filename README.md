@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gillorkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A devoted software scrutinizer crafting quality in the colorful tapestry of India</h3>
+
+<img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
