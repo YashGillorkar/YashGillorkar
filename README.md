@@ -1,8 +1,7 @@
 [![Tester Banner](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif)](https://codegrills.in)
 
-### 🧪 Quality Assurance Specialist 🕵️‍♂️
-
-🚀 Exploring the world of software testing and quality assurance.
+### Software Developer 💻
+🚀 Exploring the world of software development and innovation.
 
 📌 Check out my latest testing projects and contributions below 👇
 
@@ -10,7 +9,7 @@
 
 📧 You can reach me at yashgillorkar02@gmail.com
 
-🌟 Let's ensure top-notch software quality together! 🌈
+🌟 Let's build high-quality software together!
 
 
 <h1 align="center">Hi 👋, I'm Yash Gillorkar</h1>
